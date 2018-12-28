@@ -1,5 +1,5 @@
 # Enable tab completion
-source `/git-completion.bash
+source ~/git-completion.bash
 
 #color
 Black = "\black="\[\033[0;30m\]"
