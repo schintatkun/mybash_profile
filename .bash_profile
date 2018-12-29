@@ -2,7 +2,7 @@
 source ~/git-completion.bash
 
 #color
-Black = "\black="\[\033[0;30m\]"
+black="\[\033[0;30m\]"
 yellow="\[\033[0;01m\]"
 lightgrey="\[\033[0;37m\]"
 reset="\[\033[0m\]"
