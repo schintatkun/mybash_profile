@@ -3,6 +3,10 @@ source ~/git-completion.bash
 
 #color
 #black="\[\033[0;30m\]"
+#green="\[\033[0;32m\]"
+#lightblue="\[033[01;34m\]"
+#purple="\[\033[0;35m\]"
+#cyan="\[\033[0;36m\]"
 pink="\[\033[01;31m\]"
 yellow="\[\033[0;01m\]"
 lightgrey="\[\033[0;37m\]"
